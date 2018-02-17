@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<head>
+<title>Computer Society of India</title>
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section --></head>
+<link rel="stylesheet" href="css/home.css">
+<link rel="icon" type="image/png" href="img/favicon.png">
+
+<body>
+<div class="header">
+&nbsp;
+<img src="img/img.png">
+
+</div>
+
+
+
+<div class="links" id="links" align="right">
+
+
+			
+			<a href="home.html">  Home  </a>
+			<a href="about.html">About Us  </a>
+			<a href="gallery.html">Gallery  </a>
+			<a href="register.html">Register  </a>
+			<a href="contact.html">Contact  </a>
+		
+		
+</div>
+<div class="slide">
+<br>
+<div class="main">
+
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container0">
+	<div class="ws_images"><ul>
+		<li><img src="data0/images/chrysanthemum.jpg" alt="Chrysanthemum" title="Chrysanthemum" id="wows0_0"/></li>
+		<li><img src="data0/images/desert.jpg" alt="Desert" title="Desert" id="wows0_1"/></li>
+		<li><img src="data0/images/hydrangeas.jpg" alt="Hydrangeas" title="Hydrangeas" id="wows0_2"/></li>
+		<li><img src="data0/images/jellyfish.jpg" alt="Jellyfish" title="Jellyfish" id="wows0_3"/></li>
+		<li><img src="data0/images/koala.jpg" alt="Koala" title="Koala" id="wows0_4"/></li>
+		<li><img src="data0/images/lighthouse.jpg" alt="Lighthouse" title="Lighthouse" id="wows0_5"/></li>
+		<li><img src="data0/images/tulips.jpg" alt="Tulips" title="Tulips" id="wows0_7"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Chrysanthemum"><span><img src="data0/tooltips/chrysanthemum.jpg" alt="Chrysanthemum"/>1</span></a>
+		<a href="#" title="Desert"><span><img src="data0/tooltips/desert.jpg" alt="Desert"/>2</span></a>
+		<a href="#" title="Hydrangeas"><span><img src="data0/tooltips/hydrangeas.jpg" alt="Hydrangeas"/>3</span></a>
+		<a href="#" title="Jellyfish"><span><img src="data0/tooltips/jellyfish.jpg" alt="Jellyfish"/>4</span></a>
+		<a href="#" title="Koala"><span><img src="data0/tooltips/koala.jpg" alt="Koala"/>5</span></a>
+		<a href="#" title="Lighthouse"><span><img src="data0/tooltips/lighthouse.jpg" alt="Lighthouse"/>6</span></a>
+		<a href="#" title="Penguins"><span><img src="data0/tooltips/penguins.jpg" alt="Penguins"/>7</span></a>
+		<a href="#" title="Tulips"><span><img src="data0/tooltips/tulips.jpg" alt="Tulips"/>8</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wow slider</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+</div>
+</div>
+</div>
+<div class="content"><br>
+<table border="0" >
+<tr><td>
+<table border="0" align="left" id="socialicon">
+<tr>
+<td ><center>
+Join Us</center>
+</td>
+</tr><tr>
+<td id="iconbar" ><center>
+<a href=""><img src="img/fb.png" height="47px" width="47px" onmouseover="this.src='img/fbhover.png';" onmouseout="this.src='img/fb.png';"></a>&nbsp;
+<a href=""><img src="img/twitter.png" height="47px" width="47px" onmouseover="this.src='img/twitterhover.png';" onmouseout="this.src='img/twitter.png';"></a>&nbsp;
+<a href=""><img src="img/gp.png" height="47px" width="47px" onmouseover="this.src='img/gphover.png';" onmouseout="this.src='img/gp.png';"></a>&nbsp;
+<a href=""><img src="img/instagram.png" height="47px" width="47px" onmouseover="this.src='img/instagramhover.png';" onmouseout="this.src='img/instagram.png';"></a>&nbsp;</center>
+</td>
+
+</tr>
+</table>
+</td><td>
+<table border="0"   id="bottom">
+<tr>
+<td id="td1"><center>Designed & Developed By</center>
+</td>
+</tr>
+<tr>
+<td><center>Computer Society of India</center>
+</td>
+</tr>
+<tr>
+<td><center>BK Birla Institute of Engineering & Technology</center>
+</td>
+</tr>
+<tr>
+<td><center>Pilani, Jhunjhunun - 333031</center>
+</td>
+</tr>
+</table></td><td>
+<table border="0" id="contactdetail">
+<tr>
+<td><center>Enquiry / Feedback at: </center>
+</td></tr>
+<tr>
+<td><center>+91-9950008182</center>
+</td></tr>
+<tr>
+<td><center>Or </center>
+</td></tr>
+<tr>
+<td>contact@csi-bkbiet.com
+</td></tr>
+</table></table>
+</div>
+</head>
+</html>  
